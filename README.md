@@ -21,3 +21,37 @@ settings
 inspect <taskname>
 ```
 
+build a project
+```
+root
+|\
+ project/
+ - build.properties
+ src/
+ - main/
+   - java/
+   - scala/
+   - resources/
+ - test/
+   - java/
+   - scala/
+   - resources/
+```
+
+run the project:
+
+```
+compile
+run
+```
+run scala code:
+```
+console
+```
+quit console:
+```
+:q
+```
+
+
+
