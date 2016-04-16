@@ -1,4 +1,4 @@
-#### mnsbtinaction
+#### mnsbtinact
 
 - chap2
 create a folder, run
